@@ -16,3 +16,10 @@ Installation:
     Email: dababylesgo@gmail.com
     Password: Dr3yrandy
 10. Enjoy!
+Members:
+Pete Mabalod - Python
+Angel Mark Barro - HTML
+Kenna Fulmaran - CSS
+Jasmin Torres - CSS
+Zachary John Mariano - Contents (Prices, Pictures, etc.)
+
